@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlgn8648&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlgn8648&theme=warm) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlgn8648)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wlgn8648/wlgn8648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
