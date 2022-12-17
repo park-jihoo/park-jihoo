@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-jihoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -66,7 +66,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 18:39:59 UTC
+ Last Updated on 17/12/2022 18:39:06 UTC
 <!--END_SECTION:waka-->
 
 ## Skill Sets
