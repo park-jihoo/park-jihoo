@@ -3,8 +3,6 @@
 
 <a href="https://www.linkedin.com/in/parkjihoo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-jihoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2031%20mins-blue)
 
