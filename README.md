@@ -10,6 +10,6 @@
 ## Skill Sets
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres,spring,django,fastapi,vue,gcp,docker,py,cpp,java,r,js&theme=light&perline=8" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres,spring,django,fastapi,flask,vue,gcp,docker,py,cpp,java,r,js&theme=light&perline=8" />
   </a>
 </p>
