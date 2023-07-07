@@ -4,6 +4,8 @@ on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 */12 * * *"}]
   # Lines below let you run workflow manually and on each commit
+  push:
+    branches: [ main ]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
