@@ -57,4 +57,8 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_user: jihoopark
+          plugin_16personalities: yes
+          plugin_16personalities_url: https://www.16personalities.com/free-personality-test/d7c0c695dbbed
+          plugin_16personalities_sections: personality, profile, traits
+        
           
