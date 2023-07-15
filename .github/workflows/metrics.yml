@@ -61,6 +61,6 @@ jobs:
           plugin_wakatime_user: jihoopark
           plugin_16personalities: yes
           plugin_16personalities_url: https://www.16personalities.com/profiles/d7c0c695dbbed
-          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_sections: profile, traits
         
           
