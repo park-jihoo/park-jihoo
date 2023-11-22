@@ -60,5 +60,8 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_url: https://www.16personalities.com/profiles/d7c0c695dbbed
           plugin_16personalities_sections: profile, traits
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://park-jihoo.github.io
+          plugin_pagespeed_detailed: yes
         
           
